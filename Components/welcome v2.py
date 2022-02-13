@@ -21,6 +21,11 @@ def welcome():
     print("*** I will be here to help you order your delicious Dream Pizza ***")
 
 def main():
+    '''
+    Purpose: To run all functions
+    Parameters: none
+    Returns: none
+    '''
     welcome()
 
 main()
