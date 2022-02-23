@@ -1,16 +1,14 @@
 # Customer details dictionary
 customer_details = {}
 
-
 def not_blank(question):
     valid = False
     while not valid:
         response = input(question)
         if response != "":
-            return response 
+            return response.title()
         else:
             print("This cannot be blank")
-
 
 # Basic instructions
 question = ("Please enter your name ")
