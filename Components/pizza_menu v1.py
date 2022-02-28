@@ -10,4 +10,5 @@ number_pizzas = 12
 #num_pizza = int(input())
 
 for count in range (number_pizzas):
-    print(count, pizza_names[count], pizza_prices[count])
+    print ("{} {} ${:.2f}" .format(count+1, pizza_names[count], pizza_prices[count]))
+
