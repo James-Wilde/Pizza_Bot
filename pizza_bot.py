@@ -89,7 +89,6 @@ def pickup_info():
     question = ("Please enter your phone number ")
     customer_details['phone'] = not_blank(question)
     #print(customer_details['phone'])
-    print(customer_details)
 
 
 # Delivery information - name, address and phone number
@@ -114,7 +113,6 @@ def delivery_info():
     question = ("Please enter your suburb name ")
     customer_details['suburb'] = not_blank(question)
     print(customer_details['suburb'])
-    print(customer_details)
 
 # Pizza menu
 
