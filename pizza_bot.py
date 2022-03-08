@@ -12,7 +12,7 @@ names = ["James", "Mark", "John", "Pheobe", "Sally", "Michael", "Denise", "Ellen
 # list of pizza names
 pizza_names = ['Margerita', 'Pepperoni', 'Hawaiian', 'Cheese', 'Italian', 'Veggie', 'Vegan', 
               'Chicken Deluxe', 'Mega Meat Lovers', 'Seafood Deluxe', 'Apricot Chicken Deluxe',
-               'BBQ Chickeh Deluxe']
+               'BBQ Chicken Deluxe']
 # list of pizza prices
 pizza_prices = [8.50, 8.50, 8.50, 8.50, 8.50, 8.50, 8.50, 13.50, 13.50, 13.50 ,13.50, 13.50]
 
